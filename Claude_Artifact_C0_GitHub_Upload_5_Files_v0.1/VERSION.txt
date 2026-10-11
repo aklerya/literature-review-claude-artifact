@@ -1,0 +1,4 @@
+Literature Review Tool — Claude Artifact POC v0.1
+Source: exported working Claude Artifact HTML (byte-for-byte unchanged)
+Author account: fresh-chat import and AI generation verified (English); original also verified in Hebrew
+Independent account: not yet verified
